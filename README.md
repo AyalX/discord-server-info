@@ -53,4 +53,4 @@ Here's an updated license section for your README:
 
 ## License
 
-This script is released under the [Creative Commons Attribution-NonCommercial (CC BY-NC) License](LICENSE). This means you are free to share and adapt the script for non-commercial purposes as long as you provide attribution to the original author.
+This script is released under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License](LICENSE).
