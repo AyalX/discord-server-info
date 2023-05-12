@@ -20,7 +20,7 @@ This script allows a user to fetch the details of a Discord server using the Dis
   - Default Message Notifications
   - Explicit Content Filter
   - Roles (Name, ID, Position, Permissions)
-  - Visible Channels (Name, ID, Type, Topic, Position)
+  - Visible & Hidden Channels (Name, ID, Type, Topic, Position)
 
 ## Usage
 
