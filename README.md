@@ -27,17 +27,18 @@ This script allows a user to fetch the details of a Discord server using the Dis
 1. Visit the Discord web client in your browser.
 2. Open the developer console in your browser.
    - On most browsers, you can right-click on the Discord page, select "Inspect" or "Inspect Element," and then navigate to the "Console" tab.
-3. Copy the entire script and paste it into the developer console.
-4. Press Enter to run the script.
-5. The script will prompt you to enter your Discord token. You can retrieve your token by following these steps:
+3. Make sure you are on the Discord server for which you want to fetch the information.
+4. Copy the entire script and paste it into the developer console.
+5. Press Enter to run the script.
+6. The script will prompt you to enter your Discord token. You can retrieve your token by following these steps:
    - In the developer console, navigate to the "Application" tab (in some browsers, it may be called "Storage" or "Resources").
    - Expand the "Local Storage" section.
    - Look for an entry with the key "token". This entry stores your Discord token.
    - Copy the token and paste it into the prompt in the developer console where the script is running.
    - **Note**: Make sure to keep your Discord token private and do not share it with anyone.
-6. The script will fetch the server details using the Discord API and generate a text file containing the server information.
-7. The text file will be automatically downloaded with the name `Server_Details_{SERVER_NAME}.txt`, where `{SERVER_NAME}` is the name of the Discord server.
-8. Open the downloaded text file to view the server details.
+7. The script will fetch the server details using the Discord API and generate a text file containing the server information.
+8. The text file will be automatically downloaded with the name `Server_Details_{SERVER_NAME}.txt`, where `{SERVER_NAME}` is the name of the Discord server.
+9. Open the downloaded text file to view the server details.
 
 ## Disclaimer
 
