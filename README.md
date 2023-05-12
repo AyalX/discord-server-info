@@ -47,10 +47,4 @@ This script allows a user to fetch the details of a Discord server using the Dis
 
 ## License
 
-This script is released under the If you don't want to allow selling copies or commercial usage of your script, you can consider using the Creative Commons Attribution-NonCommercial (CC BY-NC) license. This license allows others to share and adapt your work, but only for non-commercial purposes.
-
-Here's an updated license section for your README:
-
-## License
-
 This script is released under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License](LICENSE.md).
