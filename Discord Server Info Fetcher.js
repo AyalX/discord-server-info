@@ -4,8 +4,7 @@
 // @version      1
 // @description  This script allows a user to fetch the details of a Discord server using the Discord web client developer console. It uses the Discord API of the user to fetch the server details and then extracts the relevant information.
 // @author       @AyalX on github.com
-// @match        https://discord.com/*
-// @grant        none
+// @repository   https://github.com/AyalX/discord-server-info/
 // ==/UserScript==
 
 // Discord API endpoint for fetching server details
