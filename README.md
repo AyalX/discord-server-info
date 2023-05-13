@@ -17,7 +17,7 @@ This script allows you to fetch the details of a Discord server using the Discor
   - Default Message Notifications
   - Explicit Content Filter
   - Roles (with their name, ID, position, and permissions)
-  - Visible Channels (with their name, ID, type, topic, and position)
+  - Visible & Hidden Channels (with their name, ID, type, topic, and position)
 - Generates a text file with the fetched server details and automatically downloads it.
 
 ## Usage
